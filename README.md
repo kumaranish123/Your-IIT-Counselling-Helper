@@ -102,7 +102,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out at `harsh.raj@iitg.ac.in`.
+If you have any questions or feedback, feel free to reach out at `21je0113@iitism.ac.in`.
 
 ---
 
