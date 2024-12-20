@@ -72,7 +72,7 @@ Your IIT Counselling Helper is a comprehensive tool designed to assist students 
    - Upload all sql files using import option
 5. Giving permissions and previllages
    ```bash
-    GRANT ALL PRIVILEGES ON josaa.* TO 'harsh'@'localhost' IDENTIFIED BY 'harsh@123';
+    GRANT ALL PRIVILEGES ON josaa.* TO 'Anish'@'localhost' IDENTIFIED BY 'Anish@123';
     FLUSH PRIVILEGES;
    ```
 6. Open website
