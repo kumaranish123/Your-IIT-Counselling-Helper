@@ -52,7 +52,7 @@ Your IIT Counselling Helper is a comprehensive tool designed to assist students 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/harshrajshs/Your-IIT-Counselling-Helper.git
+    git clone https://github.com/kumaranish123/Your-IIT-Counselling-Helper.git
     cd your-iit-counselling-helper
     ```
 
